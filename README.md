@@ -8,7 +8,9 @@ windows操作系统
 建议有一定的电脑使用能力
 
 ### 软件下载
-压缩包中包含两个文件
+压缩包中包含两个文件，解压缩。
+
+如果操作系统提示存在安全威胁，点击允许运行即可，否则操作系统会自动将程序文件删除。
 
 1 courseMaterX.exe 主程序，双击后执行排课程序。
 
@@ -19,11 +21,12 @@ windows操作系统
 
 2 这里提示你输入搜索的范围，数值越大，程序尝试搜索的范围越大，这里输入9。
 
-![console1](console1.PNG)
+
+<img src="console1.PNG" alt="result1" width="650">
 
 3等待程序运行结束后，查看是否生成了排课结果文件，分别是result_class_0.csv result_room_0.csv result_teacher_0.csv result_unit_0.csv。如果生成了更多的文件，没关系，这代表生成了多个排课方案。
 
-![result1](result1.PNG)
+<img src="result1.PNG" alt="result1" width="400">
 
 ### 配置文件
 如果上面的步骤都顺利，接下来就可以学习如何进行文件配置了。配置文件都在really_data_csv文件夹中，本程序中所有涉及的文件都是csv格式。
