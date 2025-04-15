@@ -115,7 +115,23 @@ All configuration files are located in the `really_data_csv` folder. All files u
 
 The `time` folder contains two time configuration files: `1.csv` and `2.csv`, used to customize class schedules. Taking `1.csv` as an example:
 
-<img src="1csv.PNG" alt="Time Configuration File Screenshot" width="500">
+| | | | | | | |
+|-|-|-|-|-|-|-|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|1|1|1|1|1|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|0|0|0|0|0|1|1|
+|1|1|1|1|1|1|1|
+|1|1|1|1|1|1|1|
+|1|1|1|1|1|1|1|
+|1|1|1|1|1|1|1|
 
 - The table contains 7 columns, corresponding to the 7 days of the week, with 15 time slots per day.
   - **Marked with `1`**: Unavailable time slots.
