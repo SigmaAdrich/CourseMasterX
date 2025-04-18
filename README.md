@@ -3,7 +3,7 @@
 ---
 适用于按班级排课
 
-[📄 English](README_EN.md)  
+[📄 English](README_EN.md)  [📄  عربي  ](README_AR.md)
 ## ⚙️ **运行要求**  
 确保以下环境满足运行需求：  
 - **操作系统**：🖥️ Windows  

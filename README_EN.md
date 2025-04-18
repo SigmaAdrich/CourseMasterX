@@ -3,7 +3,9 @@ Quickly and efficiently solve university course scheduling problems, making sche
 ---
 Applicable for scheduling by class
 
-[📄 中文](README.md)  
+[📄 中文](README.md)[📄  عربي  ](README_AR.md)
+
+The following content is based on AI translation and is for reference only.
 ## ⚙️ **Requirements**  
 Ensure the following environment requirements are met:  
 - **Operating System**: 🖥️ Windows  
